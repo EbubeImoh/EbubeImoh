@@ -13,7 +13,6 @@
 
 - 💼 AI Engineer focused on building intelligent systems.
 - 🧠 Currently exploring: Generative AI, Reinforcement Learning, and Computer Vision.
-- 📚 Writing on [Medium](https://medium.com/@ebubeimoh) about AI, robotics, and research.
 - 🎯 Projects: Movie Recognition Engine, Mobile Agents.
 - 📫 Reach me: **ebubeimoh@gmail.com**
 
